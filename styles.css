@@ -7,7 +7,8 @@ body {
     height: auto;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
+    margin : 8px
+    
 }
 
 /* Tiêu đề */
